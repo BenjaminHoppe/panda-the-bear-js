@@ -24,6 +24,10 @@ for (i in document.getElementsByClassName("highlight")) { document.getElementsBy
 document.getElementsByTagName('h1')[0].style.fontFamily = "monospace";
 
 8)
+for (i in document.getElementsByClassName("action-icon-bg")) { document.getElementsByClassName("action-icon bg")[i].style.backgroundColor="#303131" }
+
+9)
+
 
 
 
