@@ -12,3 +12,36 @@ document.querySelectorAll('[title="Man Walking on Ice"]')[0].setAttribute("src",
 document.getElementsByTagName('h1')[0].innerText = "Benjamin";
 
 4)
+document.querySelector(".info-title").innerHTML=('<i class="icon-book"></i> &nbsp; Learning')
+
+5)
+document.getElementsByTagName('body')[0].style.backgroundColor = "#393E46";
+
+6)
+for (i in document.getElementsByClassName("highlight")) { document.getElementsByClassName("highlight")[i].style.color='black' }
+
+7)
+document.getElementsByTagName('h1')[0].style.fontFamily = "monospace";
+
+8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
