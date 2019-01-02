@@ -42,6 +42,10 @@ document.getElementById("email").setAttribute("value", "koalathebear@gmail.com")
 document.getElementById("submit").setAttribute("value", "En garde!");
 
 14)
+document.getElementById("submit").setAttribute("disabled", true);
+
+15)
+
 
 
 
