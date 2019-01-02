@@ -33,7 +33,9 @@ document.getElementById('name').setAttribute("placeholder", "Identify Yourself")
 document.getElementById('message').setAttribute('placeholder', 'state your buisness');
 
 11)
+document.getElementById("name").setAttribute("value", "your nemesis")
 
+12)
 
 
 
