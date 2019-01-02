@@ -36,7 +36,9 @@ document.getElementById('message').setAttribute('placeholder', 'state your buisn
 document.getElementById("name").setAttribute("value", "your nemesis")
 
 12)
+document.getElementById("email").setAttribute("value", "koalathebear@gmail.com");
 
+13) 
 
 
 
