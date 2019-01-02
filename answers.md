@@ -27,7 +27,9 @@ document.getElementsByTagName('h1')[0].style.fontFamily = "monospace";
 for (i in document.getElementsByClassName("action-icon-bg")) { document.getElementsByClassName("action-icon bg")[i].style.backgroundColor="#303131" }
 
 9)
+document.getElementById('name').setAttribute("placeholder", "Identify Yourself");
 
+10)
 
 
 
