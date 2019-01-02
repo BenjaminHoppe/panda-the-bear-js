@@ -30,6 +30,10 @@ for (i in document.getElementsByClassName("action-icon-bg")) { document.getEleme
 document.getElementById('name').setAttribute("placeholder", "Identify Yourself");
 
 10)
+document.getElementById('message').setAttribute('placeholder', 'state your buisness');
+
+11)
+
 
 
 
