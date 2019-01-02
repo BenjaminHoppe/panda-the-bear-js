@@ -45,7 +45,7 @@ document.getElementById("submit").setAttribute("value", "En garde!");
 document.getElementById("submit").setAttribute("disabled", true);
 
 15)
-
+for (i in document.getElementsByClassName("bio-info-value")) { document.getElementsByClassName("bio-info-value")[i].innerHTML="not for you to know" };
 
 
 
