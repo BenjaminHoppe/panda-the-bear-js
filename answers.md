@@ -58,8 +58,15 @@ document.getElementsByClassName('portfolio-container')[0].appendChild(document.q
 for (i = 0; i < 10; i++) { document.getElementsByClassName('portfolio-container')[0].appendChild(document.querySelectorAll('[title="Pikachu"]')[0].cloneNode()) };
 
 3)
+document.getElementsByClassName('bio-info')[0].appendChild(listItem);
 
+var lastUpdated = document.createTextNode('Page last updated on');
 
+var date = document.createTextNode(new Date());
+
+listItem.className = "bio-info-item"; leftSpan.className = "bio-info-title"; leftSpan.className = "bio-info-value";
+
+document.getElementsByClassName('bio-info')[0].appendChild(listItem);
 
 
 
