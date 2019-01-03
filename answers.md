@@ -55,7 +55,7 @@ Part 2:
 document.getElementsByClassName('portfolio-container')[0].appendChild(document.querySelectorAll('[title="Pikachu"]')[0].cloneNode());
 
 2)
-
+for (i = 0; i < 10; i++) { document.getElementsByClassName('portfolio-container')[0].appendChild(document.querySelectorAll('[title="Pikachu"]')[0].cloneNode()) };
 
 3)
 
